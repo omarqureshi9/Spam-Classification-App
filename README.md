@@ -45,5 +45,21 @@ After training on 80% of the data:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/spam-classifier.git
-   cd spam-classifier
+   git clone https://github.com/omarqureshi9/spam-classification-app.git
+   cd spam-classification-app
+
+2.Install Dependencies
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the app
+   ```bash
+   python app.py
+
+4. Enter any message to classify it as spam or not.
+
+## 📸  Screenshots
+
+![image](https://github.com/user-attachments/assets/d70ae492-81ee-40a6-a21f-07f3e97fb3e6)
+
+   
