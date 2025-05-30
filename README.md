@@ -48,7 +48,7 @@ After training on 80% of the data:
    git clone https://github.com/omarqureshi9/spam-classification-app.git
    cd spam-classification-app
 
-2.Install Dependencies
+2. Install Dependencies
    ```bash
    pip install -r requirements.txt
 
