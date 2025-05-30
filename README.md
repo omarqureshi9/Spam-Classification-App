@@ -52,9 +52,12 @@ After training on 80% of the data:
    ```bash
    pip install -r requirements.txt
 
+
 3. Run the app
    ```bash
    python app.py
+
+
 
 4. Enter any message to classify it as spam or not.
 
