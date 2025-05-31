@@ -65,4 +65,7 @@ After training on 80% of the data:
 
 ![image](https://github.com/user-attachments/assets/d70ae492-81ee-40a6-a21f-07f3e97fb3e6)
 
+## 📜 License
+This project is licensed under the MIT License.
+
    
